@@ -1,0 +1,3 @@
+# my dwm config
+
+##Screenshots
