@@ -2,5 +2,4 @@
 
 ## Screenshots
 
-![DWM](ss.png)
-
+![DWM](./ss.png)
