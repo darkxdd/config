@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-![DWM](./ss.png)
+![DWM](pic-full-240510-2111-35.png)
