@@ -1,3 +1,6 @@
 # my dwm config
 
-##Screenshots
+## Screenshots
+
+![DWM](ss.png)
+
